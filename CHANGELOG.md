@@ -4,6 +4,22 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.4.0 — Social & Quality of Life
+*2026-07-24*
+
+Neighbours got names, and the palace started asking for the right buildings.
+
+- **Username & friends** — choose a unique handle and add people by it. Friends are personal and
+  cross alliance lines; you can quietly block someone without a drama channel.
+- **Push that earns its keep** — nudges for an incoming attack and a friend request, each switchable
+  on its own. When a build or research finishes, the idle-track nudge now says *what* reached its new
+  level.
+- **Name your city** — give your palace a public name that shows on the map and in reports.
+- **The military chain** — raise a Warrior Hall before infantry and scouts, a Stable before cavalry.
+  Each level of those halls also shortens training time for the units they speed.
+- **Clearer progression** — research that needs a building says so, the construction list follows a
+  designed order, and the night defence window follows Berlin time including daylight saving.
+
 ## v0.3.0 — Intelligence & Diplomacy
 *2026-07-23*
 

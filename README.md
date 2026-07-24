@@ -3,7 +3,7 @@
 **A mobile-first, server-authoritative, slow-burn strategy / empire-builder** in the tradition of
 *Die Stämme* (Tribal Wars), *Grepolis* and *OGame* — depth and a satisfying slow rise over graphics.
 
-> **Current version: v0.3.0 — "Intelligence & Diplomacy"** · in active development
+> **Current version: v0.4.0 — "Social & Quality of Life"** · in active development
 > This repository is a public showcase. The source code is kept in a private repository.
 
 **Setting:** the Late Bronze Age Mediterranean — Sea Peoples, Phoenician traders, Aegean palaces —
@@ -29,6 +29,9 @@ the north star, reached in slow, deliberate steps rather than a rush.
   learn. Defenders get counter-intelligence reports about who has been watching them.
 - **Diplomacy & alliances** — alliances with roles and reinforcement, plus alliance-to-alliance
   non-aggression pacts with an announced cancellation period.
+- **Social identity** — a unique username, friends across alliance lines, and a name for your own city.
+- **Military buildings** — Warrior Hall and Stable gate who you can train, and higher levels train
+  those units faster.
 - **Two flavours of AI neighbours** — passive barbarian camps to practise on, and disguised aggressors
   that play by the same rules you do.
 - **German and English** throughout, including a consistent in-world vocabulary.
