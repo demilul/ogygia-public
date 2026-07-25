@@ -4,6 +4,15 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.5.2 — Gamemaster Ops
+*2026-07-25*
+
+The sea got a steward — and a clearer name when you choose one.
+
+- **[GM] on the map** — gamemasters carry a clear `[GM]` mark wherever their public name appears, so you always know who is keeping the world honest.
+- **Your handle is your name** — once you pick a username, neighbours see that handle on the map and in reports instead of the old auto-assigned Wanax label.
+- **A quiet ops desk** — gamemasters get a Settings panel that lists real players versus bots, and levers to tune how dense and aggressive the bot neighbours are.
+
 ## v0.5.1 — First Arrival
 *2026-07-25*
 
