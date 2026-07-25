@@ -4,6 +4,15 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.5.1 — First Arrival
+*2026-07-25*
+
+Coming back — and arriving for the first time — finally feels like Ogygia.
+
+- **While you were away** — after a real stretch offline, a short recap names what finished, what landed in war, and what needs a look, then gets out of the way.
+- **A proper founding** — first launch shows the Ogygia wordmark and a sundial founding beat instead of a stock spinner, then a calm welcome into an empty palace.
+- **A crest that reads small** — a bolder pediment mark for the home screen and the store, flat and terracotta, legible at a glance.
+
 ## v0.5.0 — Conquest & Vassalage
 *2026-07-25*
 
