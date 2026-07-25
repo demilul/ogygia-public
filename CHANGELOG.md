@@ -4,6 +4,17 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.5.0 — Conquest & Vassalage
+*2026-07-25*
+
+Empires can now grow beyond a single palace — by grinding loyalty, taking vassals, and choosing when to annex.
+
+- **Unterwerfungsmarsch** — a dedicated conquest march that wears down a settlement's loyalty instead of carrying off loot. Ordinary raids stay raids.
+- **Vassalage & tribute** — once loyalty is broken, make the holder your vassal. They keep building and fighting as themselves; you receive a quiet cut of their production and may reinforce them.
+- **Annex or release** — take ownership when you are ready (costlier as you hold more land), free them, or face a telegraphed rebellion. Annexing a human's last palace founds a refuge for them so they are not erased.
+- **Several palaces** — switch between the settlements you own, and see on the map what is yours, what answers to you, and what is foreign.
+- **Clearer palace chrome** — construction timers are easier to read, and the completion banner stays up long enough to finish the line.
+
 ## v0.4.0 — Social & Quality of Life
 *2026-07-24*
 
