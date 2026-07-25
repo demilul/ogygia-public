@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.5.3 — Map & Islands
+*2026-07-25*
+
+The sea finally reads as a sea — and your neighbours as places that grow.
+
+- **A wider horizon** — more room to found and roam; the map no longer feels like a postage stamp.
+- **Two shores, one channel** — the world splits into west and east with open water between; settlements grow land around them without swallowing the whole map.
+- **Settlements that look lived-in** — markers become hamlets, villages, walled towns, then a palace at the centre as you build.
+- **Who answers to whom** — own holdings, vassals, overlords, and allies read at a glance on the map.
+- **Find yourself again** — open on the strait, zoom to explore, and **Zu mir** snaps back to your active palace.
+- **Versionshinweise** — Settings links to the public release notes.
+
 ## v0.5.2 — Gamemaster Ops
 *2026-07-25*
 
