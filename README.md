@@ -3,7 +3,7 @@
 **A mobile-first, server-authoritative, slow-burn strategy / empire-builder** in the tradition of
 *Die Stämme* (Tribal Wars), *Grepolis* and *OGame* — depth and a satisfying slow rise over graphics.
 
-> **Current version: v0.4.0 — "Social & Quality of Life"** · in active development
+> **Current version: v0.6.0 — "Monsters & Myth"** · in active development
 > This repository is a public showcase. The source code is kept in a private repository.
 
 **Setting:** the Late Bronze Age Mediterranean — Sea Peoples, Phoenician traders, Aegean palaces —
@@ -25,6 +25,10 @@ the north star, reached in slow, deliberate steps rather than a rush.
 - **Asynchronous PvP** — deterministic raiding resolved server-side, with a distance-and-size
   *provisioning* penalty as its signature twist, night-time protection, beginner protection, and
   full battle reports for both sides.
+- **Conquest and vassalage** — wear down loyalty, demand tribute, reinforce subjects, annex settlements,
+  or release them before rebellion turns the relationship against you.
+- **Mythic PvE** — public world bosses reward every contributor, while roaming Gorgons and Minotaurs
+  telegraph attacks that can be intercepted before they reach a settlement.
 - **Espionage** — a dedicated scout unit and staggered intel tiers: the more you commit, the more you
   learn. Defenders get counter-intelligence reports about who has been watching them.
 - **Diplomacy & alliances** — alliances with roles and reinforcement, plus alliance-to-alliance
@@ -32,6 +36,8 @@ the north star, reached in slow, deliberate steps rather than a rush.
 - **Social identity** — a unique username, friends across alliance lines, and a name for your own city.
 - **Military buildings** — Warrior Hall and Stable gate who you can train, and higher levels train
   those units faster.
+- **A living archipelago** — two shores divided by open water, settlements that visibly grow, and map
+  styling for holdings, vassals, overlords, allies, and mythic threats.
 - **Two flavours of AI neighbours** — passive barbarian camps to practise on, and disguised aggressors
   that play by the same rules you do.
 - **German and English** throughout, including a consistent in-world vocabulary.

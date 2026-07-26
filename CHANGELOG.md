@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.6.0 — Monsters & Myth
+*2026-07-26*
+
+The old stories have begun to walk the world.
+
+- **World bosses** — Chimerae and Cyclopes emerge for a day at a time, visible to every ruler and open to every army that can reach them.
+- **Shared spoils** — bring down a boss together and earn timber, copper, and tin by contribution; rewards wait safely until you choose a palace to receive them.
+- **Threats at the gate** — Gorgons and Minotaurs choose a settlement, announce their approach, and can be intercepted before they strike.
+- **Omens and battle records** — mythic warnings, map shortcuts, push controls, and dedicated reports keep every encounter readable.
+- **Know when you can build** — unaffordable construction now estimates the earliest start time and says plainly when production has stalled.
+- **Send us an idea** — signed-in players can send a feature request privately to the Ogygia maintainers from Settings.
+
 ## v0.5.3 — Map & Islands
 *2026-07-25*
 
