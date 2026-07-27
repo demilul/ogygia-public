@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.6.1 — Achievements & Onboarding
+*2026-07-27*
+
+The world finally explains itself — and starts keeping a record of what you have done.
+
+- **Achievements** — a visible catalogue of milestones across building, research, armies, diplomacy and world bosses, with running progress on the ones that take many steps.
+- **A profile worth showing** — display name, alliance and everything you have earned, opened from a name on the map, in a report, or in an alliance roster.
+- **A guide, and an optional first journey** — a compact reference to every core system, always one tap away; newly founded realms are also offered a handful of loose goals through the first days, skippable at any time and resumable later.
+- **Buildings and research that explain themselves** — every card says what a thing is *for* before what it costs, and a detail view gives the numbers, the prerequisites, and what the next level unlocks. A finished building now hands you the next useful action instead of a full-screen fanfare.
+- **Arriving on a new device** — a fresh browser now offers you sign-in *before* you found a realm, so coming back lands you in the empire you already have rather than an empty new one. A paused guest realm can be picked up again.
+- **More to raid** — barbarian settlements are more plentiful and can now sit on the coast, so there is more within marching distance. The **Stealth** attack has also been renamed to say what it really is: concealment, not haste.
+
 ## v0.6.0 — Monsters & Myth
 *2026-07-26*
 

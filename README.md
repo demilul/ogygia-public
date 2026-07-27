@@ -3,7 +3,7 @@
 **A mobile-first, server-authoritative, slow-burn strategy / empire-builder** in the tradition of
 *Die Stämme* (Tribal Wars), *Grepolis* and *OGame* — depth and a satisfying slow rise over graphics.
 
-> **Current version: v0.6.0 — "Monsters & Myth"** · in active development
+> **Current version: v0.6.1 — "Achievements & Onboarding"** · in active development
 > This repository is a public showcase. The source code is kept in a private repository.
 
 **Setting:** the Late Bronze Age Mediterranean — Sea Peoples, Phoenician traders, Aegean palaces —
@@ -34,6 +34,10 @@ the north star, reached in slow, deliberate steps rather than a rush.
 - **Diplomacy & alliances** — alliances with roles and reinforcement, plus alliance-to-alliance
   non-aggression pacts with an announced cancellation period.
 - **Social identity** — a unique username, friends across alliance lines, and a name for your own city.
+- **Achievements and profiles** — visible milestones across every playstyle, shown on a public profile
+  reachable from the map, from reports, and from alliance rosters.
+- **A guide, and a first journey** — an always-available reference to every core system, plus an
+  optional set of loose goals through the first days of a newly founded realm.
 - **Military buildings** — Warrior Hall and Stable gate who you can train, and higher levels train
   those units faster.
 - **A living archipelago** — two shores divided by open water, settlements that visibly grow, and map
