@@ -4,6 +4,17 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.6.3 — Pacing & Progression
+*2026-07-28*
+
+Building stopped being a waiting room.
+
+- **Seconds, then a long climb** — the earliest levels of a building now finish in seconds instead of hours, so the first minutes in a new realm are spent building rather than waiting. In exchange the ladders run much higher than before, and there are no longer any dead rungs on them: every level of every building moves a number you can see, and the detail view tells you which one.
+- **A queue for the Construction Track** — one order builds while a second waits behind it and starts on its own the moment the first finishes, so a fast early curve no longer means opening the app every thirty seconds. Change your mind and cancel either of them: everything you paid comes straight back. The catalogue now says *Queue* while a build is running, and the guide and the opening goals have been rewritten to match.
+- **Grain that finally bites** — a sprawling realm eats far more than a compact one, and the bill is now actually collected. Growth costs something, so overreaching slows you down instead of being free.
+- **Alliances that know who you mean** — invite somebody by their handle rather than by an unreadable identifier. When you reinforce or scout an ally, you now pick which of your palaces marches and which of theirs it is heading for, both from the member roster and from the map — no more guessing on your behalf.
+- **Ogygia on Android** — the Android build is ready for the Google Play testing track. Signing in there is tidier too: the Apple option no longer appears on a device that could never complete it, and a new account is announced once instead of twice.
+
 ## v0.6.1 — Achievements & Onboarding
 *2026-07-27*
 
