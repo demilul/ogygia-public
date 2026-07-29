@@ -4,6 +4,14 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.1 — The world, illustrated
+*2026-07-29*
+
+The menus and the map put on their new clothes.
+
+- **Hand-drawn buildings, units and resources** — the catalogues, recruitment and the resource counters now show their own illustrated art in place of plain symbols.
+- **A drawn map** — the settlements and markers on the world map wear the same illustrated style.
+
 ## v0.7.0 — Ships & Sea
 *2026-07-29*
 
