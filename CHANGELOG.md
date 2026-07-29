@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.0 — Ships & Sea
+*2026-07-29*
+
+The water between the islands became a road — and something in it started moving.
+
+- **Ships and the open sea** — Raise a shipyard, build a fleet, and cross to the shores you could never reach on foot. A sea crossing needs ships to carry the army, and the voyage runs slower than marching over land.
+- **A monster in the channel** — The world boss now sometimes rises from the open water, and only a Wanax with a fleet can sail out to face it.
+- **Every army on one screen** — A new movements view gathers all your troops in one place: marching out, sailing home, standing garrison, or reinforcing an ally, each with the time it arrives. And an attack can be called back within ten minutes of sending it — a feint, but one that still costs the grain to march there and back.
+- **Marches that don't eat a day** — Travelling the map is far quicker now, so reaching a neighbour is a short wait rather than an overnight one.
+- **Numbers you can read at a glance** — Every resource shows what it earns each hour, and a finished building updates the instant it completes instead of leaving you watching a full timer.
+- **A face of its own** — A redrawn app icon and hand-illustrated sea and land monsters give the world its own look.
+
 ## v0.6.3 — Pacing & Progression
 *2026-07-28*
 
