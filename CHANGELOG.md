@@ -4,6 +4,16 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.2 — Rough edges
+*2026-07-30*
+
+No new land this time — just a realm that reads and behaves the way it should.
+
+- **Leaving cleanly** — Signing out now returns you to the start screen instead of leaving the previous account's realm on the other tabs.
+- **Reports that fit** — Battle report rows no longer run off the edge on narrow screens, in either language.
+- **German that stays German** — When a march or an action is refused, the reason now reads in your own language instead of dropping back to raw English.
+- **Plain words for hiccups** — A server error now shows a clear message rather than raw technical text dressed up as a game rule.
+
 ## v0.7.1 — The world, illustrated
 *2026-07-29*
 
