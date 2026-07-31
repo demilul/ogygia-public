@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.3 — A world you can read
+*2026-07-31*
+
+The realm learned to talk, to wear your colours, and to show a newcomer the way.
+
+- **Send word across the sea** — Write to any player by name. A private message system, with blocking and reporting built in, turns a map full of strangers into people you can actually deal with.
+- **Fly your own colours** — Design a personal crest — shield, emblem, colours and frame — that rides on your map marker, your palace, your battle reports and your profile. Pure identity, earned or bought, never power.
+- **A livelier map** — Forests and hills now break up the land and islets and reefs the open water, and the map opens centred on your own village with an unmistakable marker for you. It loads without the wait, too.
+- **Finding your feet** — Tap any unfamiliar word for a plain explanation, follow a gentle "do this next" thread, and when an action is still locked, see the whole path to unlock it instead of hitting a dead end.
+- **Know when the gloves come off** — Your beginner-protection countdown is now visible on your palace, and neighbours can read it on your village — so nobody is guessing when you become fair game.
+- **Rough edges, smoothed** — A defeated sea monster leaves the map at once, calling back a sea march brings your ship home with the troops, your own palace finally shows its name, and completion banners no longer cover the buttons beneath them.
+
 ## v0.7.2 — Rough edges
 *2026-07-30*
 
