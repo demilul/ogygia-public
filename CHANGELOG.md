@@ -4,6 +4,17 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.4 — A world that fits
+*2026-08-01*
+
+The map settled into one style, the war table into one glance, and the big screen finally into use.
+
+- **A map that reads as one** — Terrain and villages now share a single flat, hand-drawn style; the scenery sits back so your palaces stand out, and the map opens where you expect it to.
+- **Built for the big screen** — On desktop and tablet the game finally uses the width: lists open a detail pane beside them, your resources and morale stay in view on every screen (with a palace switcher), and cramped or over-stretched pages are gone.
+- **A clearer war table** — The war overview is one tidy board now — battle, scouting and watch reports in a single switchable list with unread markers, incoming raids that only speak up when it matters, and your troop movements folded in.
+- **Your palace, at a glance** — The build, research and training panel collapses to a slim strip when idle, so a running job is what you actually see; approval only appears when it needs you.
+- **Smaller touches** — World bosses show their true face wherever they're named, "show on map" takes you straight to a friend, ship capacity reads clearly, and on iOS the app now asks before sending notifications.
+
 ## v0.7.3 — A world you can read
 *2026-07-31*
 
