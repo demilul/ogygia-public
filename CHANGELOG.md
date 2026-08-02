@@ -4,6 +4,16 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.5 — A path to follow
+*2026-08-02*
+
+The world stopped being a blank map and started giving you somewhere to go.
+
+- **Quests and daily orders** — A lasting quest journey now runs alongside a fresh set of daily orders each day: clear goals, rewards you claim yourself, and the ones you care about pinned to your palace. Newcomers finally have a thread to pull, and old hands a reason to check back in.
+- **A map without a grid** — The chequerboard is gone. Land and sea now read as one continuous, hand-drawn coastline, so your villages sit exactly where they belong instead of appearing to snap to tiles.
+- **Names, not titles** — Messages now show who actually wrote them, the village switcher is the same on every screen, and your resources sit clean and uncluttered at the top of each page.
+- **Fewer words, clearer ones** — Text across the game has been trimmed of clutter and over-explanation, so screens say what they mean and get out of the way.
+
 ## v0.7.4 — A world that fits
 *2026-08-01*
 
