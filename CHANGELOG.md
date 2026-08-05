@@ -4,6 +4,14 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.7.6 — Before you set sail
+*2026-08-05*
+
+A couple of rough edges from the last update, smoothed.
+
+- **Know your fleet before you sail** — A sea march now shows how many ships your chosen troops will need before you commit them, so you're never caught short at the docks.
+- **Quests that start when you tap** — The quest journey and daily orders now begin reliably, so the thread to pull is always there from the first tap.
+
 ## v0.7.5 — A path to follow
 *2026-08-02*
 
