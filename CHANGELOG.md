@@ -4,6 +4,18 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.8.0 — Depth
+*2026-08-07*
+
+The world stopped being just a race to grow and gained things worth playing for.
+
+- **Trade at the Emporion** — Build a marketplace and swap resources with other players at a living exchange rate, so a surplus of one good can become the one you're short on.
+- **Wonders, and the end of a season** — Alliances now race to raise a great World Wonder; finishing it crowns the season with a lasting victory and gives the long game a finish line.
+- **Whisperers in the dark** — A House of Whisperers lets you send covert agents on missions against your rivals — the quiet weapon of the clever and the outmatched.
+- **An alliance forum** — Members get a proper thread board to plan and talk, kept in order by leaders and officers.
+- **A world that stirs on its own** — Regions come alive with their own events and world-boss omens, so the map keeps surprising you between your moves.
+- **One home for your goals** — Quests are now the single place for what to do next: a cleaner screen, one-tap rewards, and your current step always a tap away on your palace.
+
 ## v0.7.6 — Before you set sail
 *2026-08-05*
 
