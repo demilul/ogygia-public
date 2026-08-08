@@ -4,6 +4,14 @@ Milestone releases of **Ogygia**. Each version is a playable step, not a patch b
 
 ---
 
+## v0.8.1 — Smoother edges
+*2026-08-08*
+
+A quick pass to make two everyday screens feel right.
+
+- **A quest screen worth reading** — Rewards now read as one clear card: your goal and progress at a glance, the loot shown with its own icons, and a friendly confirmation when you claim it.
+- **A build menu that holds still** — The building list no longer twitches while its "affordable in…" timers count down, so it's calm to read and easy to tap.
+
 ## v0.8.0 — Depth
 *2026-08-07*
 
